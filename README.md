@@ -1,3 +1,5 @@
+**DEPRECATED** This project is unmantained, deprecated and goes into archive with followup removal in 2 years.
+
 # React with TypeScript
 
 > Small examples which show how React can be used with TypeScript.
